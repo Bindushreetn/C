@@ -19,7 +19,7 @@ int main(){
                 max=count;
             count=0;
         }
-        n/=2;
+        n/=2
     }
     if(count>max)
         max=count;
